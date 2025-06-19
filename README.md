@@ -19,7 +19,7 @@ You can view a live version here: [https://edcore.rf.gd/](https://edcore.rf.gd/)
 
 - Subject listing with individual resource directories
 - Basic file management (view/download)
-- Lightweight and fast — no need for heavy frameworks
+- Lightweight and fast, no need for heavy frameworks
 - Designed to be deployed on free hosting platforms
 
 ## 🛠 Tech Stack
